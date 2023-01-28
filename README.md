@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css">
 # VAISHNAV-RAVINDRAN
 A Passionate FrontEnd Developer
 
